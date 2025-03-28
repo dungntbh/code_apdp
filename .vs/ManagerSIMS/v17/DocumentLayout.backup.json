@@ -1,0 +1,589 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\APDP\\Huy\\ManagerSIMSS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\views\\student\\viewcoursegrade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:views\\student\\viewcoursegrade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\views\\faculty\\managergrade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:views\\faculty\\managergrade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\views\\admin\\managercourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:views\\admin\\managercourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\views\\admin\\editcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:views\\admin\\editcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\views\\admin\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:views\\admin\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\facade\\userfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:facade\\userfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\facade\\iuserfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:facade\\iuserfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\facade\\icoursefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:facade\\icoursefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\facade\\coursefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:facade\\coursefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APDP\\Dung\\ManagerSIMS\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\managersims.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:managersims.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\migrations\\20250324111052_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:migrations\\20250324111052_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\models\\usercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:models\\usercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APDP\\Dung\\ManagerSIMS\\Migrations\\20250324100816_Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APDP\\Dung\\ManagerSIMS\\Migrations\\20250324094722_Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APDP\\Dung\\ManagerSIMS\\Migrations\\20250324083444_Datas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|d:\\apdp\\huy\\managersimss\\migrations\\20250324115053_updatecoursetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D080E-EDFE-4436-A1FF-5AB161F89E8A}|ManagerSIMS.csproj|solutionrelative:migrations\\20250324115053_updatecoursetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APDP\\Dung\\ManagerSIMS\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APDP\\Dung\\ManagerSIMS\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APDP\\Dung\\ManagerSIMS\\Controllers\\FacultyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IUserRepository.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:37:32.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:37:44.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T08:09:14.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T08:09:25.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddCourse.cshtml",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\Admin\\AddCourse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AddCourse.cshtml",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\Admin\\AddCourse.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AddCourse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T09:51:42.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditCourse.cshtml",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\Admin\\EditCourse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EditCourse.cshtml",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\Admin\\EditCourse.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EditCourse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T10:20:41.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerCourse.cshtml",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\Admin\\ManagerCourse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ManagerCourse.cshtml",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\Admin\\ManagerCourse.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ManagerCourse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T08:11:15.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerGrade.cshtml",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\Faculty\\ManagerGrade.cshtml",
+              "RelativeDocumentMoniker": "Views\\Faculty\\ManagerGrade.cshtml",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\Faculty\\ManagerGrade.cshtml",
+              "RelativeToolTip": "Views\\Faculty\\ManagerGrade.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T08:13:48.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewCourseGrade.cshtml",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\Student\\ViewCourseGrade.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\ViewCourseGrade.cshtml",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\Student\\ViewCourseGrade.cshtml",
+              "RelativeToolTip": "Views\\Student\\ViewCourseGrade.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T08:13:10.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:32:16.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Repository\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICourseRepository.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Repository\\ICourseRepository.cs",
+              "RelativeToolTip": "Repository\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:38:06.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CourseRepository.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Repository\\CourseRepository.cs",
+              "RelativeToolTip": "Repository\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:38:47.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:25:42.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserFacade.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Facade\\UserFacade.cs",
+              "RelativeDocumentMoniker": "Facade\\UserFacade.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Facade\\UserFacade.cs",
+              "RelativeToolTip": "Facade\\UserFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:36:20.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserFacade.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Facade\\IUserFacade.cs",
+              "RelativeDocumentMoniker": "Facade\\IUserFacade.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Facade\\IUserFacade.cs",
+              "RelativeToolTip": "Facade\\IUserFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:36:07.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICourseFacade.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Facade\\ICourseFacade.cs",
+              "RelativeDocumentMoniker": "Facade\\ICourseFacade.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Facade\\ICourseFacade.cs",
+              "RelativeToolTip": "Facade\\ICourseFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:36:38.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseFacade.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Facade\\CourseFacade.cs",
+              "RelativeDocumentMoniker": "Facade\\CourseFacade.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Facade\\CourseFacade.cs",
+              "RelativeToolTip": "Facade\\CourseFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:36:49.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\APDP\\Dung\\ManagerSIMS\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Dung\\ManagerSIMS\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\APDP\\Dung\\ManagerSIMS\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "..\\..\\Dung\\ManagerSIMS\\Controllers\\StudentController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:14:50.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:38:00.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:24:56.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\APDP\\Dung\\ManagerSIMS\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Dung\\ManagerSIMS\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\APDP\\Dung\\ManagerSIMS\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\..\\Dung\\ManagerSIMS\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:10:00.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\APDP\\Dung\\ManagerSIMS\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Dung\\ManagerSIMS\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\APDP\\Dung\\ManagerSIMS\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "..\\..\\Dung\\ManagerSIMS\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAqwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:10:32.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T12:44:11.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FacultyController.cs",
+              "DocumentMoniker": "D:\\APDP\\Dung\\ManagerSIMS\\Controllers\\FacultyController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Dung\\ManagerSIMS\\Controllers\\FacultyController.cs",
+              "ToolTip": "D:\\APDP\\Dung\\ManagerSIMS\\Controllers\\FacultyController.cs",
+              "RelativeToolTip": "..\\..\\Dung\\ManagerSIMS\\Controllers\\FacultyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:14:34.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManagerSIMS.csproj",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\ManagerSIMS.csproj",
+              "RelativeDocumentMoniker": "ManagerSIMS.csproj",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\ManagerSIMS.csproj",
+              "RelativeToolTip": "ManagerSIMS.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T08:06:25.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250324115053_UpdateCourseTable.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Migrations\\20250324115053_UpdateCourseTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250324115053_UpdateCourseTable.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Migrations\\20250324115053_UpdateCourseTable.cs",
+              "RelativeToolTip": "Migrations\\20250324115053_UpdateCourseTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:50:53.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250324111052_data.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Migrations\\20250324111052_data.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250324111052_data.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Migrations\\20250324111052_data.cs",
+              "RelativeToolTip": "Migrations\\20250324111052_data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:10:53.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:25:34.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:15:25.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserCourse.cs",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Models\\UserCourse.cs",
+              "RelativeDocumentMoniker": "Models\\UserCourse.cs",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Models\\UserCourse.cs",
+              "RelativeToolTip": "Models\\UserCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:26:05.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250324100816_Data.cs",
+              "DocumentMoniker": "D:\\APDP\\Dung\\ManagerSIMS\\Migrations\\20250324100816_Data.cs",
+              "RelativeDocumentMoniker": "..\\..\\Dung\\ManagerSIMS\\Migrations\\20250324100816_Data.cs",
+              "ToolTip": "D:\\APDP\\Dung\\ManagerSIMS\\Migrations\\20250324100816_Data.cs",
+              "RelativeToolTip": "..\\..\\Dung\\ManagerSIMS\\Migrations\\20250324100816_Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:08:16.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250324094722_Data.cs",
+              "DocumentMoniker": "D:\\APDP\\Dung\\ManagerSIMS\\Migrations\\20250324094722_Data.cs",
+              "RelativeDocumentMoniker": "..\\..\\Dung\\ManagerSIMS\\Migrations\\20250324094722_Data.cs",
+              "ToolTip": "D:\\APDP\\Dung\\ManagerSIMS\\Migrations\\20250324094722_Data.cs",
+              "RelativeToolTip": "..\\..\\Dung\\ManagerSIMS\\Migrations\\20250324094722_Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:47:22.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T09:29:39.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250324083444_Datas.cs",
+              "DocumentMoniker": "D:\\APDP\\Dung\\ManagerSIMS\\Migrations\\20250324083444_Datas.cs",
+              "RelativeDocumentMoniker": "..\\..\\Dung\\ManagerSIMS\\Migrations\\20250324083444_Datas.cs",
+              "ToolTip": "D:\\APDP\\Dung\\ManagerSIMS\\Migrations\\20250324083444_Datas.cs",
+              "RelativeToolTip": "..\\..\\Dung\\ManagerSIMS\\Migrations\\20250324083444_Datas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:34:45.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\APDP\\Huy\\ManagerSIMSS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\APDP\\Huy\\ManagerSIMSS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T08:32:16.104Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
