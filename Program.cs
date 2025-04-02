@@ -16,10 +16,10 @@ builder.Services.AddSession(options =>
     options.Cookie.SecurePolicy = CookieSecurePolicy.Always; // Yêu cầu HTTPS
 });
 
-//builder.Services.AddScoped<IUserRepository, UserRepository>();
-//builder.Services.AddScoped<IUserFacade, UserFacade>();
-//builder.Services.AddScoped<ICourseRepository, CourseRepository>();
-//builder.Services.AddScoped<ICourseFacade, CourseFacade>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IUserFacade, UserFacade>();
+builder.Services.AddScoped<ICourseRepository, CourseRepository>();
+builder.Services.AddScoped<ICourseFacade, CourseFacade>();
 
 builder.Services.AddControllersWithViews();
 var app = builder.Build();
